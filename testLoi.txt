@@ -1,2 +1,3 @@
 test git loi 2
 test 2
+test git trung 
